@@ -1,6 +1,6 @@
 # statistics-for-artificial-intelligence-and-data-science
 
-**#Project I**
+# **Project I**
 
 This project attempts to introduce the reader with some general travel patterns of the London Underground Stations 
 by considering passenger exits for all stations during service hours. The analysis uses the 'hourlyExits.csv' file
