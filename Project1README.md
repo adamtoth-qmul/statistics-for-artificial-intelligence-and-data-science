@@ -1,9 +1,6 @@
 # statistics-for-artificial-intelligence-and-data-science
 
 
-**https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/**
-
-
 # **Project I**
 
 ## **Aim of Coursework I.**
